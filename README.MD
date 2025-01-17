@@ -1,4 +1,4 @@
-# Reservation System
+# System Reservation 
 Sebuah sistem reservasi sederhana menggunakan HTML, CSS, dan JavaScript.
 
 ## Fitur
